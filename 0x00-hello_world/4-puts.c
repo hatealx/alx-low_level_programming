@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main - my main
+ *main - main
  *
  *Return: always 0
  */
