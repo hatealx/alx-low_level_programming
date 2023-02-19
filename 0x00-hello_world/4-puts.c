@@ -1,8 +1,9 @@
 #include <stdio.h>
-/**
- *main-this is the amin function 
- *
- *Return: always
+
+/**                                                                                                                                                 
+ *main-this is the amin function                                                                                                                    
+ *                                                                                                                                  
+ *Return: always 0
  */
 
 
