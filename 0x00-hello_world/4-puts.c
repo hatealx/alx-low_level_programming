@@ -1,4 +1,4 @@
-#include <stdh.io>
+#include <stdio.h>
 /**
  *main - this is the amin function 
  *
