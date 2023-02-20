@@ -1,4 +1,4 @@
-#include <stsio.h>
+#include <stdio.h>
 #include <unistd>
 /**
  * main - main
