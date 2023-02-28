@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * reset_to_98(int *n) - funtion that points and change the value of an int
+ * reset_to_98 - funtion that points and change the value of an int
  *@n: parameter
  * Return: return 0
  */
