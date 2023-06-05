@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * string_toupper - change lowercase to uppercase
- * @s:string
+ * @s:string to change
  * Return:char
  */
 char *string_toupper(char *s)
