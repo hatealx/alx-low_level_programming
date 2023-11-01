@@ -1,3 +1,4 @@
+
 iCC = gcc
 RC = main.c school.c
 OBJ = $(SRC:.c=.o) 
